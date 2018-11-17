@@ -1,0 +1,21 @@
+body
+{
+	background-color:#ffccff;
+}
+
+p
+{
+	width:200px;
+	text-align:center;
+	
+}
+
+ul
+{
+	text-decoration:underline;
+}
+
+ul li:hover
+{
+	background-color:#ffe6ff;
+}
