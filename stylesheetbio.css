@@ -1,0 +1,26 @@
+body
+{
+	margin: 20px;
+	background-image: url("pozadina2.jpg");
+	text-align:left;
+	color: #54542b;
+	font-family:Cursive, sans-serif;
+	font-size: 1.1em;
+}
+
+.bio
+{
+	
+	margin-top: 50px;
+}
+
+a:Link
+{
+	color:green;
+	
+}
+
+.portfolio_link
+{
+	margin-top:50px;
+}
